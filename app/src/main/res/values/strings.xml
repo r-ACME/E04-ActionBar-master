@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E04-ActionBar</string>
+    <string name="search">Pesquisa</string>
+    <string name="refresh">Recarregue</string>
+    <string name="settings">Configurações</string>
+    <string name="share">Compartilhar</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Sair</string>
+</resources>
